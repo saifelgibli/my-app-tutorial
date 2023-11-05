@@ -1,2 +1,2 @@
-#App for tutuoual
+#App for tutorial
 my app
